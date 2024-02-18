@@ -5,4 +5,5 @@ Conway’s Game Of Life algorithm in C++. The Game Of Life is a cellular automat
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 Running glider.exe runs the glider pattern, which continues indefinitely until it reaches the end of the grid.
+
 Running conway.exe allows a universe to be loaded and saved to and from a .txt file, of which glider.txt and glidergun.txt have been provided as examples.
